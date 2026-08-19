@@ -1,0 +1,13 @@
+{
+  "config": {
+    "currentPeriod": {
+      "type": "USAGE_PERIOD_TYPE_WEEKLY",
+      "start": "2026-08-11T19:45:30Z",
+      "end": "2026-08-18T19:45:30Z"
+    },
+    "productUsage": [
+      { "product": "GrokBuild", "usagePercent": 10 },
+      { "product": "GrokBuild", "usagePercent": 20 }
+    ]
+  }
+}

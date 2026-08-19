@@ -1,0 +1,16 @@
+.DS_Store
+.AppleDouble
+.build/
+dist/
+logs/
+*.tmpbuild
+GrokQuota.app
+**/*.app/
+auth.json
+auth.json.lock
+.env
+.env.*
+*.pem
+*.p12
+.grok-implement/reviews/
+project_memory/*.raw.md

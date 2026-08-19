@@ -1,0 +1,52 @@
+{
+  "zero": {
+    "config": {
+      "currentPeriod": {
+        "type": "USAGE_PERIOD_TYPE_WEEKLY",
+        "start": "2026-08-11T19:45:30Z",
+        "end": "2026-08-18T19:45:30Z"
+      },
+      "productUsage": [{ "product": "GrokBuild", "usagePercent": 0 }]
+    }
+  },
+  "full": {
+    "config": {
+      "currentPeriod": {
+        "type": "USAGE_PERIOD_TYPE_WEEKLY",
+        "start": "2026-08-11T19:45:30Z",
+        "end": "2026-08-18T19:45:30Z"
+      },
+      "productUsage": [{ "product": "GrokBuild", "usagePercent": 100 }]
+    }
+  },
+  "half": {
+    "config": {
+      "currentPeriod": {
+        "type": "USAGE_PERIOD_TYPE_WEEKLY",
+        "start": "2026-08-11T19:45:30Z",
+        "end": "2026-08-18T19:45:30Z"
+      },
+      "productUsage": [{ "product": "GrokBuild", "usagePercent": 2.5 }]
+    }
+  },
+  "neg": {
+    "config": {
+      "currentPeriod": {
+        "type": "USAGE_PERIOD_TYPE_WEEKLY",
+        "start": "2026-08-11T19:45:30Z",
+        "end": "2026-08-18T19:45:30Z"
+      },
+      "productUsage": [{ "product": "GrokBuild", "usagePercent": -1 }]
+    }
+  },
+  "over": {
+    "config": {
+      "currentPeriod": {
+        "type": "USAGE_PERIOD_TYPE_WEEKLY",
+        "start": "2026-08-11T19:45:30Z",
+        "end": "2026-08-18T19:45:30Z"
+      },
+      "productUsage": [{ "product": "GrokBuild", "usagePercent": 101 }]
+    }
+  }
+}
